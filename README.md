@@ -7,8 +7,7 @@ Frontend created using create-react-app, CSS and axios.
 Objective: Provide an interface where the user can add, delete, and modify as well as manage his budget, and see the current status of his budget
 positive of negative.
 
-[![Header](https://raw.githubusercontent.com/manuepeva/Expense-Tracker-ReactJS-Hooks/master/expensetrack.png "Header")]
-(https://raw.githubusercontent.com/manuepeva/Expense-Tracker-ReactJS-Hooks/master/expensetrack.png)
+[![Header](https://raw.githubusercontent.com/manuepeva/Expense-Tracker-ReactJS-Hooks/master/expensetrack.png "Header")](https://raw.githubusercontent.com/manuepeva/Expense-Tracker-ReactJS-Hooks/master/expensetrack.png)
 
 ![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
